@@ -1,7 +1,6 @@
 ### Hi there 👋
+https://www.canva.com/design/DAEKxw0WXrM/RkqTDFWVnQnjKEevxNa6Xg/view?utm_content=DAEKxw0WXrM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
-<!--
-**Vladyslavos/Vladyslavos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
