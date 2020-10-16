@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vladyslav
-![](https://pbs.twimg.com/profile_banners/1317227718027730945/1602887131/600x200)
+![](https://pbs.twimg.com/profile_banners/1317227718027730945/1602887353/600x200)
 
 I'm Vladyslav from Ukraine, and I do content on Development. I enjoy learning languages and frameworks like React and React Native.I'm really fond of Internet Technologies because they can change the world on a better way
 
