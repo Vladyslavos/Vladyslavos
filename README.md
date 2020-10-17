@@ -1,14 +1,14 @@
+### Hi there 👋, my name is Vladyslav
+![](https://pbs.twimg.com/media/EkjhusDW0AEoTAZ?format=jpg&name=small)
 
+I'm Vladyslav from Ukaraine, and I do content on Development.  I really enjoy learning languages anf frameworks like React and React Native. I also interested in backend.
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub read me generator creator
-![I am GitHub read me generator creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS/ SCSS/ GULP
 
 - 🔭 I’m currently working on this page. 
+
+
+
 
 
 
