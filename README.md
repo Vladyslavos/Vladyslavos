@@ -9,8 +9,8 @@ Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vladyslavos)  
 
  
 
