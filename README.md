@@ -8,7 +8,7 @@ Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
  
 
 ![Profile views](https://gpvc.arturio.dev/vladyslavos)  
