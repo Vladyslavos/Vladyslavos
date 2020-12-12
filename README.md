@@ -9,7 +9,6 @@ Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 
 
 
-               ![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
- 
+![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ![Profile views](https://gpvc.arturio.dev/vladyslavos)  
