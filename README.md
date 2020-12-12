@@ -8,7 +8,7 @@ Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 - 🌱 I’m currently learning React and React Native 
 
 <p align="center">
-  <img src="![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" />
+  <img src="(https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" />
 </p>
 
  
