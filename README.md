@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Vladyslav
-#### I am Frontend developer
-
 
 I'm Vladyslav from Ukaraine, and I do content on Development. I really enjoy learning languages and frameworks like React and React Native. I also interested in backend.
 
