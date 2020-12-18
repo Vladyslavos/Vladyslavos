@@ -4,9 +4,9 @@ I'm Vladyslav from Ukaraine, and I do content on Development. I really enjoy lea
 
 Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React and React Native 
-
+🔭 I’m currently working on this page. 
+🌱 I’m currently learning React and React Native 
+📫 How to reach me vladyslawork@gmail.com
 
 
 ![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
