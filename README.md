@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, my name is Vladyslav<h1>
-  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width=300>
+  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width=300 align="center">
   
 <samp>
 I'm Vladyslav from Ukaraine, and I do content on Web Development. I really enjoy learning languages and frameworks like JavaScript and React. I also interested in backend.
