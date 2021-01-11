@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Vladyslav</h1>
-  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" align="center">
+  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif">
+  <br><br
   
   
   
@@ -9,11 +10,10 @@ I'm Vladyslav from Ukaraine, and I do content on Web Development. I really enjoy
 </samp>
 </h3>
 
-Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
-
 🔭 I’m  working on this page. 
 
 🌱 I’m currently learning JavaScript and React
+Skills: JS /REACT /SCSS /HTML /CSS  /GULP /WEBPACK /BOTSTRAP
 
 
 
