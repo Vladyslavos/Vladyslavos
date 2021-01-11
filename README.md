@@ -19,6 +19,4 @@ I'm Vladyslav from Ukaraine, and I do content on Web Development. I really enjoy
 <img alt="react" width="85px" src="https://www.flaticon.com/svg/vstatic/svg/753/753244.svg?token=exp=1610408816~hmac=54136ff8e6d8626d8884ade2a655c9e1"/>
 </p>
 
-<p align="center">
-  [Profile views](https://gpvc.arturio.dev/vladyslavos)  
-</p>
+![Profile views](https://gpvc.arturio.dev/vladyslavos) 
