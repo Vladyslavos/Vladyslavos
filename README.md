@@ -20,7 +20,5 @@ I'm Vladyslav from Ukaraine, and I do content on Web Development. I really enjoy
 </p>
 
 <p align="center">
-  
-![Profile views](https://gpvc.arturio.dev/vladyslavos)  
-
+  [Profile views](https://gpvc.arturio.dev/vladyslavos)  
 </p>
