@@ -14,9 +14,11 @@ I'm Vladyslav from Ukaraine, and I do content on Web Development. I really enjoy
 <img alt="html" width="85px" src="Skills_icon/html_skill.png"/>
 <img alt="css" width="85px" src="Skills_icon/css_skill.png"/>
 <img alt="SCSS" width="85px" src="Skills_icon/scss_skill.png"/>
-<img alt="js" width="85px" src="Skills_icon/js_skill.png"/>
 <img alt="bootstrap" width="85px" src="Skills_icon/bootstrap_skill.png" />
+<img alt="js" width="85px" src="Skills_icon/js_skill.png"/>
 <img alt="react" width="85px" src="Skills_icon/react_skill.png"/>
+
+
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/vladyslavos) 
