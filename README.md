@@ -5,7 +5,7 @@
  
 <h3>  
 <samp>
-I'm Vladyslav from Ukraine, and I do content on Web Development. I really enjoy learning languages and frameworks like JavaScript and React. I also interested in backend.
+I'm Vladyslav from Ukraine, and I do content on Web Development. I really enjoy learning languages and frameworks like JavaScript and React. I also interested in backend.:computer:
 </samp>
 </h3>
 <h1 align="center">Skills:</h1>
