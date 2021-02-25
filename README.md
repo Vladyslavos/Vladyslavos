@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Vladyslav</h1>
 <p align="center">
-   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width=600>
+   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width=450>
 </p>
 <h3>  
 <samp>
