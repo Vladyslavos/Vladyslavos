@@ -15,6 +15,9 @@ I'm Vladyslav from Ukraine, and I do content on Web Development. I really enjoy 
 <img alt="bootstrap" width="85px" src="Skills_icon/bootstrap_skill.png" />
 <img alt="js" width="85px" src="Skills_icon/js_skill.png"/>
 <img alt="react" width="85px" src="Skills_icon/react_skill.png"/>
+<img alt="react" width="85px" src="Skills_icon/icons8-git-96.png"/>
+   
+   
 </p>
 
 
