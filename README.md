@@ -7,7 +7,6 @@
 I'm Vladyslav from Ukraine, and I do content on Web Development. I really enjoy learning languages and frameworks like JavaScript and React. I also interested in backend.:computer:
 </samp>
 </h3>
-<h1 align="center">Skills:</h1>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
